@@ -1,4 +1,5 @@
 # Project description
+![](overview.png)
 This repository contains code of a graph-variational auto-encoder, adapted to connectivity matrices representing functional 
 connectivity of the brain. The trained model can be used to extract connectivity related features which can serve as input for down-stream tasks.  
 More information can be found in our paper "Graph auto-encoder to identify distinct connectivity 
