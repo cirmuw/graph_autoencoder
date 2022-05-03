@@ -1,0 +1,2 @@
+HCP_derivatives='root/path/to/HCP/related/output/' # root path to store HCP connectivity matrices and time series
+Epi_derivatives='root/path/to/Epi/related/output/' # root path to store epilesy connectivity matrices and time series
